@@ -1,6 +1,7 @@
 # Python
 __pycache__/
 *.pyc
+.env
 
 # Logs
 *.log
@@ -8,7 +9,7 @@ __pycache__/
 # Virtual Environment
 venv/
 
-.github/workflows/ci.yml
+# .github/workflows/ci.yml
 
 # test_ghost.py
 # test_items.py
